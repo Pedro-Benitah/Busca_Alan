@@ -62,7 +62,7 @@ int buscaBinaria(int resp)
 			menor = media+1;
 		}else
 		{
-			maior = media-1;
+			maior = media;
 		}
 		i++;
 	}
